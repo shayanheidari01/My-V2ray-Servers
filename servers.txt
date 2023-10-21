@@ -1,1 +1,2 @@
 vless://40208bd8-e3fb-4fb8-ac52-3dd551f5f5fb@titaniom.official.mmdtitaniom.com:34220?mode=gun&security=reality&encryption=none&pbk=d3Z7IvTKoaFNGUzLLRC8U1XF12F1MPC_stGNccQQREI&fp=firefox&spx=%2F&type=grpc&serviceName=@TITANIOM_OFFICIAL,@TITANIOM_OFFICIAL,@TITANIOM_OFFICIAL,@TITANIOM_OFFICIAL,@TITANIOM_OFFICIAL,&sni=sourceforge.net&sid=6fa697ff#shayan+and+mmd+server
+ss://YWVzLTI1Ni1nY206NjliYjFjYWItYTc1NC00ZmRjLWEwM2YtYTgwNmU3ZmEzZTA2@51.38.99.96:442#%F0%9F%87%AB%F0%9F%87%B7+FR+shython
